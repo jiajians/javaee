@@ -12,6 +12,8 @@ public class TestGit {
         System.out.println("I am from RAD 9.1. " + "From EGit Plugin");
         System.out.println("I am from RAD 9.1. " + "From EGit Plugin");
         System.out.println("I am from RAD 9.1. " + "From EGit Plugin");
+        
+        System.out.println("This is a Test");
                 
 	}
 
